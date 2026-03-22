@@ -1,0 +1,9 @@
+venv/
+watervapour_dataset/
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+*.log
